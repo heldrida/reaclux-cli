@@ -1,6 +1,6 @@
 {
   "name": "reaclux-cli",
-  "version": "0.0.1",
+  "version": "0.0.122",
   "description": "Reaclux is a command-line tool for the Reaclux-Boilerplate created by Punkbit, to help quickly start and build a new project by asking the user a few simple questions",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,12 @@
   },
   "author": "Punkbit",
   "license": "WTFPL",
- "bin": {
-  "reaclux": "./index.js"
- }
+  "bin": {
+    "reaclux": "./index.js"
+  },
+  "dependencies": {
+    "babel-polyfill": "^6.22.0",
+    "chalk": "^1.1.3",
+    "figlet": "^1.2.0"
+  }
 }
