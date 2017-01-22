@@ -1,0 +1,11 @@
+{
+  "name": "reaclux",
+  "version": "0.0.1",
+  "description": "Reaclux is a command-line tool for the Reaclux-Boilerplate created by Punkbit, to help quickly start and build a new project by asking the user a few simple questions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Punkbit",
+  "license": "WTFPL"
+}
