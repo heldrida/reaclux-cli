@@ -12,7 +12,7 @@ console.log(
 	chalk.magenta(
 		figlet.textSync('Reaclux', { horizontalLayout: 'full' })
 	),
-	chalk.yellow.bold('\n' + ' ' + 'CLI'),
+	chalk.yellow.bold('\n' + ' ' + 'Boilerplate CLI'),
 	chalk.yellow('by Punkbit'),
 	'\n',
 	'\n'
